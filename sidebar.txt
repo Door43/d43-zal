@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zal:home|Door43 (zal)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zal|d43-zal repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zal/archive/master.zip|d43-zal.zip]]
+
+**Recent Changes**
+{{changes>ns = zal}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zal|Ethnologue data]]
+
